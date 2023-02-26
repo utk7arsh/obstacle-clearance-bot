@@ -2,7 +2,7 @@
 
 ![4](https://user-images.githubusercontent.com/66383982/221443544-886f0c06-e393-49b0-b460-f94554d39209.png)
 
-#### Coded in Arduino (C++) and designed in Solidworks
+##### Coded in Arduino (C++) and designed in Solidworks for Roboknights at DPS RK Puram
 
 
 This robot is designed to detect any obstacle in the form of small objects like cans, bottle, stones, and rod. Post detection, it picks up this object using its retractable arms and removes it from the path, which ensures its smooth movement along the path. 
